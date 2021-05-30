@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+
+
+<Mayanagari>
+            <Classical>
+                <Movie_Name>Mr.Robot</Movie_Name>
+                <Release_Year>1961</Release_Year>
+            </Classical> 
+
+            <Action>
+                <Movie_Name>Iron Man</Movie_Name>
+                <Release_Year>1982</Release_Year>
+            </Action> 
+
+            <Horror>
+                <Movie_Name>Ant Man</Movie_Name>
+                <Release_Year>2019</Release_Year>
+            </Horror>
+</Mayanagari> 
